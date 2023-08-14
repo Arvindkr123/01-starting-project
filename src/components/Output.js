@@ -8,4 +8,4 @@ const Output = ({children}) => {
     )
 }
 
-export default Output
+export default Output;
